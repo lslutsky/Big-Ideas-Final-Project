@@ -1,7 +1,7 @@
 ## Big-Ideas-Final-Project
 
 Team name: Superhero Housing
-Canvas Group Number 12
++ Canvas Group Number 12
 
 A one sentence overview of your repository, meant for someone who is not familiar with the project:
 This repository is the dataset analysis of three seprate datasets combined into one to find the best neighborhood for a superhero to live in in Pittsburgh.
