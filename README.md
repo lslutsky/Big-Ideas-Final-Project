@@ -9,7 +9,7 @@ This repository is the dataset analysis of three seprate datasets combined into 
 Team members and their email addresses:
 - Lynn Slutsky, lhs16@pitt.edu
 - Connor Gramling, cbg41@pitt.edu
-- John Hohman, 
+- John Hohman, Jph109@pitt.edu
 
 Description and links to the datasets used:
 - Police Reports (John): https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/391942e2-25ef-43e4-8263-f8519fa8aada
