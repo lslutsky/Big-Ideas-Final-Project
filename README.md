@@ -12,6 +12,6 @@ Team members and their email addresses:
 - John Hohman, Jph109@pitt.edu
 
 Description and links to the datasets used:
-- Police Reports (John): https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/391942e2-25ef-43e4-8263-f8519fa8aada
+- Police Incident Reports (John): https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/391942e2-25ef-43e4-8263-f8519fa8aada
 - Arrest Data (Connor): https://data.wprdc.org/dataset/arrest-data
 - Property Data (Lynn): https://data.wprdc.org/dataset/property-data-with-geographic-identifiers/resource/8eff881d-4d28-4064-83f1-30cc991cfec7
