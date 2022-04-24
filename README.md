@@ -9,6 +9,7 @@ Team members and their email addresses:
 - Lynn Slutsky, lhs16@pitt.edu
 - Connor Gramling, cbg41@pitt.edu
 - John Hohman, Jph109@pitt.edu
+- Our individual notebooks can be found in folders under our names in the repository.
 
 Description and links to the datasets used:
 - Police Incident Reports (John): This data covers every police incident report in the city of Pittsburgh from 2005 to 2015.
